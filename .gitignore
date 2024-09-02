@@ -1,0 +1,4 @@
+__pycache__
+dist
+*.pyc
+mc_convention.egg-info
